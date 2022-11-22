@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee77ded9-1451-435a-ac95-a4d049679d68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/ShippingPartner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/AbstractUserdata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/AdminDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/SupplierPartner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/AdminLocation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/ConfirmedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/CustomerAddress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/CustomerDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/PaymentGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/PaymentGateway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/TrashProducts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/WishListproduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

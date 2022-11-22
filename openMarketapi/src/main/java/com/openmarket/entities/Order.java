@@ -22,16 +22,10 @@ public class Order {
     @Column(name = "orderId")
     private Long orderId;
 
-    @ManyToOne
-    @Column(name = "customerId")
     private Long customerId;
 
-    @OneToOne
-    @Column(name = "paymentId")
     private Long paymentId;
 
-    @ManyToOne
-    @Column(name = "shipperId")
     private Long shipperId;
 
     private LocalDate orderDate;
