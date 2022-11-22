@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee77ded9-1451-435a-ac95-a4d049679d68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/ShippingPartner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/AbstractUserdata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/AdminDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/SupplierPartner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/AdminLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/ConfirmedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/CustomerAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/CustomerDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/PaymentGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/PaymentGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/TrashProducts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/java/com/openmarket/entities/WishListproduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openMarketapi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/openMarketapi/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HuS6hOg1wyunlXfuUcSNZ7BurN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.OpenMarketapiApplication">
+    <configuration name="OpenMarketapiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openmarket.OpenMarketapiApplication" />
+      <module name="openMarketapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openmarket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Open-Market-e-Commerce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Open-Market-e-Commerce" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OpenMarketapiApplication" />
+        <item itemvalue="JUnit.All in Open-Market-e-Commerce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee77ded9-1451-435a-ac95-a4d049679d68" name="Changes" comment="" />
+      <created>1669133304621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669133304621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
